@@ -995,8 +995,7 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 <recipe name="partsCompoundBow_body" count="1" craft_area="workbench">
 	<ingredient name="forgedIron" count="10"/>
 	<ingredient name="forgedSteel" count="1"/>
-	<ingredient name="scrapPlastics" count="5"/>
-	<ingredient name="emptyJar" count="2"/>
+	<ingredient name="scrapPlastics" count="7"/>
 </recipe>
 
 <recipe name="partsCompoundBow_grip" count="1" craft_area="workbench">
