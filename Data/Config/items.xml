@@ -1035,7 +1035,7 @@ Mesh files no longer used:
 	<property class="Action0"><!-- AttackAction -->
 		<property name="Class" value="Melee"/>
 		<property name="Delay" value="0.8"/>
-		<property name="Range" value="1.50"/> <!-- This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
+		<property name="Range" value="1.50"/> <!-- Default is 1.65, 1.5 change for network lag.  This not what "clientside melee combat" means. =) This is the adjustment afterwards due to code changes. -->
 		<property name="Sphere" value="0.1"/>
 		<property name="Block_range" value="2.5"/>
 		<property name="DamageEntity" value="10"/>
@@ -2234,8 +2234,8 @@ Mesh files no longer used:
 		<property name="Crosshair_max_distance" value="30"/> <!-- 30 -->
 		<property name="Magazine_size" value="1"/>
 		<property name="Magazine_items" value="arrow,ironArrow,steelArrow,flamingArrow"/>
-		<property name="Rays_spread" value="0.011"/>
-		<property name="Reload_time" value="0.9"/>
+		<property name="Rays_spread" value="0.010"/>
+		<property name="Reload_time" value="0.8"/>
 		<property name="Bullet_icon" value="uzi"/>
 		<property name="Sound_start" value="bow_fire"/>
 		<property name="Sound_repeat" value=""/>

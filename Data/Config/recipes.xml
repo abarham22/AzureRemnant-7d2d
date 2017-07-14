@@ -1017,7 +1017,10 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 	<ingredient name="scrapPlastics" count="2"/>
 </recipe>
 
-<!-- End Test Revipes for compound bow parts asdf -->
+<!-- End Test Recipes for compound bow parts asdf -->
+<!-- Start test recipes for new bows -->
+
+<!-- End Test recipes for new bows -->
 
 <recipe name="firstAidBandage" count="1">
 	<ingredient name="aloeCream" count="1"/>
