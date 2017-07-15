@@ -1020,7 +1020,13 @@ Unfortunately auto-calc only seems to work on the first (top) ingredient in the 
 <!-- Start test recipes for new bows -->
 
 <!-- End Test recipes for new bows -->
+<!-- Start test recipes for misc -->
 
+<recipe name="bottledRiverWater" count="1"> <!-- you can now make dirty water out of clean water -->
+	<ingredient name="bottledWater" count="1"/>
+</recipe>
+
+<!-- End test recipes for misc -->
 <recipe name="firstAidBandage" count="1">
 	<ingredient name="aloeCream" count="1"/>
 	<ingredient name="cloth" count="2"/>
