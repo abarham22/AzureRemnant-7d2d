@@ -147,6 +147,9 @@
 	<recipe name="Twine" count="4">
 		<ingredient name="leatherStrips" count="1"/>
 	</recipe>
+	<recipe name="Twine" count="1">
+		<ingredient name="yuccaFibers" count="4"/>
+	</recipe>
 	<recipe name="animalHideBoots" count="1" craft_area="tailorStation"  craft_tool="sewingKit">
 		<ingredient name="animalHide" count="15"/>
 		<ingredient name="Twine" count="5"/>
