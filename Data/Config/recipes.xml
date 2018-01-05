@@ -145,7 +145,7 @@
 		<ingredient name="gasCan" count="1"/>
 	</recipe>
 	<recipe name="Twine" count="4">
-		<ingredient name="leatherStrips" count="1"/>
+		<ingredient name="cloth" count="1"/>
 	</recipe>
 	<recipe name="Twine" count="1">
 		<ingredient name="yuccaFibers" count="4"/>
