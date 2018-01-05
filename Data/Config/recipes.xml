@@ -3892,13 +3892,13 @@
 		<ingredient name="potato" count="20"/>
 		<ingredient name="blueberries" count="20"/>
 	</recipe>
-	<recipe name="Solder" count="5" craft_area="oilRefinery">
-		<ingredient name="CopperFragment" count="20"/>
-		<ingredient name="ZincFragment" count="20"/>
+	<recipe name="Solder" count="2" craft_area="oilRefinery">
+		<ingredient name="CopperFragment" count="1"/>
+		<ingredient name="ZincFragment" count="1"/>
 	</recipe>
-	<recipe name="Solder" count="1" craft_area="chemistryStation" craft_tool="beaker">
-		<ingredient name="CopperFragment" count="20"/>
-		<ingredient name="ZincFragment" count="20"/>
+	<recipe name="Solder" count="10" craft_area="chemistryStation" craft_tool="beaker">
+		<ingredient name="CopperFragment" count="5"/>
+		<ingredient name="ZincFragment" count="5"/>
 	</recipe>
 	<recipe name="diamondgloves" count="1"  craft_area="tailorStation" craft_tool="weldingTorch">
 		<ingredient name="rawDiamond" count="15"/>
@@ -4771,6 +4771,18 @@
 	</recipe>
 	<recipe name="cement" count="1" craft_area="forge" material_based="true">
 		<ingredient name="unit_stone" count="5"/>
+	</recipe>
+	<recipe name="CopperFragment" count="1" craft_area="forge" material_based="true">
+		<ingredient name="unit_stone" count="70"/>
+	</recipe>
+	<recipe name="ZincFragment" count="1" craft_area="forge" material_based="true">
+		<ingredient name="unit_stone" count="70"/>
+	</recipe>
+	<recipe name="CopperFragment" count="1" craft_area="BigForge" material_based="true">
+		<ingredient name="unit_stone" count="40"/>
+	</recipe>
+	<recipe name="ZincFragment" count="1" craft_area="BigForge" material_based="true">
+		<ingredient name="unit_stone" count="40"/>
 	</recipe>
 	<recipe name="forgedIron" count="1" craft_area="forge" material_based="true">
 		<ingredient name="unit_iron" count="10"/>
