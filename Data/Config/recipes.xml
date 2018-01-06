@@ -1,4 +1,4 @@
-"weaponparts" count="25"<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- The (scrappable) weight of a thing is auto-calculated from the resources here unless overridden in blocks/items.xml. Unfortunately auto-calc only seems to work on the first (top) ingredient in the list so ammo recipes have been re-ordered as a temp fix. -->
 <recipes>
 	<!-- * * * * * * * * * * * * scrap and forge-emptying recipes * * * * * * * * * * * * -->
